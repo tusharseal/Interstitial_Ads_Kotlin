@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InterstitialAdsKotlin</string>
+    <string name="app_id">ca-app-pub-2448186326259527~3265604543</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2448186326259527/5759905945</string>
+    <string name="inter_ad_unit_id">ca-app-pub-2448186326259527/1774421293</string>
+</resources>
